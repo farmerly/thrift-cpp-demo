@@ -1,0 +1,4 @@
+*.o
+thrift-itf/gen-cpp
+thrift-itf/gen-java
+thrift-example
